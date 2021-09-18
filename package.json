@@ -30,15 +30,7 @@
     "webpack": "^5.46.0",
     "webpack-cli": "^4.7.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/karlhaworth/karlhaworth.com_11ty.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/karlhaworth/karlhaworth.com_11ty/issues"
-  },
-  "homepage": "https://gitlab.com/karlhaworth/karlhaworth.com_11ty#readme"
+  "license": "ISC"
 }

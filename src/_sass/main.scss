@@ -26,7 +26,7 @@ body {
 
 #header_wrap,
 #bottom_wrap {
-  background: #2c3e50;
+  background: #43719a;
   color: white;
 
   a {
@@ -188,4 +188,8 @@ footer {
     border-color: lighten(lightgray, 5%) !important;
     margin: 2px !important;
   }
+}
+
+.badge-success {
+  background-color: #96e2e6;
 }

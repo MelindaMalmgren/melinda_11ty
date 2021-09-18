@@ -27,8 +27,8 @@ module.exports = function () {
     await page._client.send("Emulation.clearDeviceMetricsOverride");
     await page.screenshot({ path: "resume.png" });
     await page.pdf({
-      path: "./dist/assets/karl_haworth_resume.pdf",
-      // path: "./src/assets/karl_haworth_resume.pdf",
+      path: "./dist/assets/resume.pdf",
+      // path: "./src/assets/resume.pdf",
       printBackground: true,
       format: "letter",
       margin: {
@@ -41,19 +41,18 @@ module.exports = function () {
 
     await browser.close();
 
-    const readPdf = fs.readFileSync(`./dist/assets/karl_haworth_resume.pdf`);
-    // const readPdf = fs.readFileSync(`./src/assets/karl_haworth_resume.pdf`);
+    const readPdf = fs.readFileSync(`./dist/assets/resume.pdf`);
+    // const readPdf = fs.readFileSync(`./src/assets/resume.pdf`);
     const pdfDoc = await PDFDocument.load(readPdf, {
       updateMetadata: true,
     });
     pdfDoc.setTitle("Melinda Malmgren - Resume");
-    pdfDoc.setAuthor("Karl J Haworth");
+    pdfDoc.setAuthor("Melinda Malmgren");
     pdfDoc.setProducer("KH PDF App 9000 🤖");
     pdfDoc.setSubject("Melinda Malmgren Resume");
-    pdfDoc.setCreator("karlhaworth.com (https://karlhaworth.com)");
     const pdfBytes = await pdfDoc.save();
-    fs.writeFileSync("./dist/assets/karl_haworth_resume.pdf", pdfBytes);
-    // fs.writeFileSync("./src/assets/karl_haworth_resume.pdf", pdfBytes);
+    fs.writeFileSync("./dist/assets/resume.pdf", pdfBytes);
+    // fs.writeFileSync("./src/assets/resume.pdf", pdfBytes);
     console.log("Wrote PDF");
   })();
 };

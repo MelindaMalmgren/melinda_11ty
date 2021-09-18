@@ -1,4 +1,4 @@
 module.exports = {
-  url: "https://karlhaworth.com",
+  url: "https://melinda.dev",
   buildYear: new Date().getFullYear(),
 };
