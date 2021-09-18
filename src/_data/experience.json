@@ -2,94 +2,102 @@
   {
     "company": "American Airlines",
     "icon": "american-airlines",
-    "title": "Product Technical Lead - Developer Experience, Principal Engineer, IT DevOps",
-    "employment_date": "January 2021 – Present",
-    "description": "Worked in the Delivery Transformation organization architecting solutions for automation using devops methodologies",
+    "title": "Principal Engineer - Engineering Excellence, Product Technical Lead - Emerging Tech",
+    "employment_date": "Apr 2020 – Present",
+    "description": "Worked in the Technology Transformation organization driving change at scale and delivering enterprise solutions in support of modernization efforts.",
     "bullets": [
-      "Develop overall strategic technical plan and create architecture plans for implementation based on identified solution gaps",
-      "Create solutions with high level of innovation, cost effectiveness, high quality and faster time to market",
-      "Contribute to the overall strategy and manage complex issues",
-      "Serve as a Subject Matter Expert in Automation architecture",
-      "Collaborate with business and technical partners to identify and scope the opportunities, outline potential value and ROI, identify risks, benefits and constraints"
+      "Directly managed a small team of engineers whose focus was to create a best-in-class engineer experience at American.",
+      "Broke down collaboration barriers within American by sourcing pain points for engineers and standing up solutions to solve them.",
+      "Championed the InnerSource efforts across the company including hosting workshops, providing individual consulting to product teams, and contributing code to repos.",
+      "Conducted interviews for roles across the company and advocated for hiring practices that support diversity.",
+      "Participated in Tech Board. Represented the voice of the engineer in multiple forums, including Tech Board.",
+      "Contributed to open source projects on behalf of American Airlines and strived to introduce numerous projects to the open source community.",
+      "Organized sponsorship of multiple college hackathons in support of American's talent pipeline.",
+      "Onboarded, trained, and mentored ADEPTs", 
+      "Presentations, Tower, etc",
+      "Runway, developer experience",
+      "Developed proof-of-concepts to explore emerging tech and discover creative ways to solve problems."
     ]
   },
   {
     "company": "American Airlines",
     "icon": "american-airlines",
-    "title": "Principal Engineer, IT DevOps",
-    "employment_date": "June 2020 – January 2021",
-    "description": "Worked in the Delivery Transformation organization contributing to the creation of solutions for automation using devops methodologies",
+    "title": "Principal Tech Lead",
+    "employment_date": "Jul 2018 – Apr 2020",
+    "description": "Worked in the Airline Operations Technology organization leading the delivery of...",
     "bullets": [
-      "Create architecture proposals based on identified solution gaps",
-      "Create solutions with high level of innovation, cost effectiveness, high quality and faster time to market",
-      "Contribute to the overall strategy and manage complex issues within functional area of expertise",
-      "Work with developers across the company to implement their solutions into an InnerSourced framework"
+      "Mentored developers across all areas of multiple projects and tech stacks.",
+      "Owned and maintained the Azure Devops CI/CD pipelines for the Safety & Security portfolio.",
+      "Oversaw and mentored a group of 14 new grad engineers participating in AA’s accelerated leadership program as they developed and released a production application.",
+      "Introduced coding standards and implemented code reviews, linting, branching strategies, and automated testing across multiple teams.",
+      "Provided technical guidance for the continued development and re-write of CERS including conversion of mobile apps into a Progressive Web App, database migration, and re-architecting to a cloud native solution.",
+      "Championed and coordinated the adoption of InnerSource at American by organizing workshops, being a repo maintainer, and helping teams InnerSource their projects.",
+      "Created roadmaps for modernizing and re-architecting numerous applications to be cloud native.",
+      "Architected and deployed the first production application at American Airlines to be hosted in Azure."
     ]
   },
   {
     "company": "American Airlines",
     "icon": "american-airlines",
-    "title": "Network Automation Engineer",
-    "employment_date": "June 2019 – June 2020",
-    "description": "Worked in the Enterprise Network Automation organization architecting solutions for automation using devops methodologies",
+    "title": "Senior Software Engineer/Tech Lead",
+    "employment_date": "Jan 2014 - Jul 2018",
+    "description": "Worked on multiple teams across the Airline Operations Technology organization contributing to the creation of solutions for critical airline operations.",
     "bullets": [
-      "Develop overall strategic technical plan and create architecture proposals based on identified solution gaps",
-      "Create solutions with high level of innovation, cost effectiveness, high quality and faster time to market",
-      "Contribute to the overall strategy and manage complex issues within functional area of expertise",
-      "Serve as a Subject Matter Expert in Automation architecture"
+      "Enhanced and supported multiple critical .NET applications throughout the US Airways merger.",
+      "Initiated and implemented a CI/CD process for projects across the department including automated testing, linting, environment configuration and reporting.",
+      "Led in the full stack development of a real time line-of-flying application used to support traffic coordinators and mechanics across the airline using Angular, .NET Core, MongoDB, and D3 on Cloud Foundry.",
+      "Participated in the creation of AA’s first Angular monorepo including creating the CI/CD pipeline, contributing to shared components, and developing new applications within the monorepo.",
+      "Advocated for and implemented coding standards, best practices and DevOps."
     ]
   },
   {
-    "company": "American Airlines",
-    "icon": "american-airlines",
-    "title": "Senior IT Infrastructure Engineer",
-    "employment_date": "January 2018 – June 2019",
-    "description": "Worked in the Enterprise Network Services department deploying, optimizing, and creating engineering toolsets.",
+    "company": "Lumension Security",
+    "icon": "",
+    "title": "Software Developer II - Mobile",
+    "employment_date": "Oct 2012 – Nov 2013",
+    "description": "Worked in the newly formed mobile department to create the first version of Lumension's core product for mobile.",
     "bullets": [
-      "Plan, create, and document processes for new platforms",
-      "Evaluate and correct the integrity of existing systems",
-      "Maintain and administer multiple platforms including products from Riverbed, CA Technologies, Infoblox, and Gigamon",
-      "Implement data monitoring and collection equipment based on diagrams and run-books provided by architect"
+      "Designed and implemented the mobile device management module of LEMSS, Lumension’s core product, from the ground up.",
+      "Implemented code for all levels of the module including the front end ASP user interface.",
+      "Utilized iOS and Android APIs for supporting a wide array of device security functionality, and tested on all major OS versions and manufacturer devices.",
+      "Created Lumension’s Android application using C# and Xamarin."
     ]
   },
   {
-    "company": "American Airlines",
-    "icon": "american-airlines",
-    "title": "IT Infrastructure Engineer",
-    "employment_date": "June 2016 – January 2018",
-    "description": "Worked in the Enterprise Network Services department with network and application performance monitoring toolsets.",
+    "company": "Lumension Security",
+    "icon": "",
+    "title": "Software Developer II - Automation",
+    "employment_date": "Jan 2018 – Jun 2019",
+    "description": "Worked in the X department enabling test automation and production deployments.",
     "bullets": [
-      "Implement data monitoring and collection equipment based on diagrams and run-books provided by architect",
-      "Plan, create, and document processes for existing platforms",
-      "Maintain and administer multiple platforms including products from Riverbed and CA Technologies",
-      "Troubleshoot common network and network device issues with routing and administration"
+      "Enhanced, maintained and owned the Automation framework used to automate test cases and assure the quality of Lumension’s core product.",
+      "Collaborated with the Configuration Management team to create multiple tools and plugins for TFS, including automated work item tools and source control management enhancements.",
+      "Designed and implemented an automated tool for validating the output of TFS builds. This tool is currently being used on all main line builds within the company."
     ]
   },
   {
-    "company": "American Airlines",
-    "icon": "american-airlines",
-    "title": "Associate IT Infrastructure Engineer (ADEPT)",
-    "employment_date": "June 2014 – May 2016",
-    "description": "The American Airlines Development Program for Technology (ADEPT) is a college recruiting program created to develop a technical talent pipeline for Information Technology(IT).",
-    "bullets": [
-      "Configure, install, and deploy various network devices and services for functional networks",
-      "Maintain complete technical documentation",
-      "Resolve issues that tiers of support have escalated",
-      "Perform network maintenance and system upgrades"
-    ]
+    "company": "Exponent Inc",
+    "icon": "",
+    "title": "Software Developer",
+    "employment_date": "Mar 2009 - Aug 2010",
+    "description": "Participated in the full software life cycle of a multi-million dollar US government contract for ground penetrating radar systems. Responsibilities included designing and implementing user interfaces using WPF and C# for desktop applications, implementing device interfaces, unit testing, and creating training documents.",
+    "bullets": []
   },
   {
-    "company": "US Airways",
-    "icon": "us-airways",
-    "title": "Statistical Analyst Intern",
+    "company": "IBM",
+    "icon": "",
+    "title": "Mobile Application Developer",
+    "employment_date": "Jun 2007 – Feb 2009",
+    "description": "Implemented the web based mobile version of Lotus Connections - IBM’s most successful new software product introduction to date - using Java and agile methodologies.",
+    "bullets": []
+  },
+  {
+    "company": "IBM",
+    "icon": "",
+    "title": "Software Development Co-Op",
     "oneliner": true,
-    "employment_date": "July 2012 – June 2014",
-    "description": "Assisted the Systems Engineering & Operations staff with support, analysis, and reporting.",
-    "bullets": [
-      "Creation of performance metrics",
-      "System performance and capacity planning analysis",
-      "System troubleshooting and documentation of complex processes",
-      "Engagement of software vendors and internal development staff to resolve problems as necessary"
-    ]
+    "employment_date": "Apr 2006 – Apr 2007",
+    "description": "Designed and implemented Java desktop applications to aid other departments in supporting IBM hardware products.",
+    "bullets": []
   }
 ]

@@ -1,4 +1,4 @@
-## Resume Website for Karl Haworth
+## Resume Website for Melinda Malmgren
 
 ### Print styles produce PDF resume. Best printed in Chrome.
 
@@ -21,4 +21,4 @@ $ npm run start
 $ npm run build
 ```
 
-![Screenshot](karl_haworth_resume.png)
+![Screenshot](resume.png)

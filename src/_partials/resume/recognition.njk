@@ -5,19 +5,22 @@
     <div class="col-md-10">
         {% for recognition in notable_recognition %}
             {% if
-            loop.index == 4 %}
+            loop.index == 7 %}
                 <div id="demo" class="collapse d-print-none">
                 {% endif %}
                 <div class="row">
                     <div class="col-md-12">
-                        {{ recognition.comments }}
+                        <i>
+                            {{ recognition.comments }}
+                        </i>
                     </div>
                 </div>
                 <div class="row pb-2">
                     <div class="col-md-9">
-                        <i>
+                        <b>
                             -
-                            {{ recognition.role }}</i>
+                            {{ recognition.role }}
+                        </b>
                     </div>
                     <div class="col-md-3 text-right">
                         <span class="badge badge-secondary">{{ recognition.date }}</span >

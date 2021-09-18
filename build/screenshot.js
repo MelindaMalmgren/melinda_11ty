@@ -25,7 +25,7 @@ module.exports = function () {
     const page = await browser.newPage();
     await page.goto(`file:${path.join(__dirname, "../dist/index.html")}`);
     await page._client.send("Emulation.clearDeviceMetricsOverride");
-    await page.screenshot({ path: "karl_haworth_resume.png" });
+    await page.screenshot({ path: "resume.png" });
     await page.pdf({
       path: "./dist/assets/karl_haworth_resume.pdf",
       // path: "./src/assets/karl_haworth_resume.pdf",
@@ -46,10 +46,10 @@ module.exports = function () {
     const pdfDoc = await PDFDocument.load(readPdf, {
       updateMetadata: true,
     });
-    pdfDoc.setTitle("Karl Haworth - Resume");
+    pdfDoc.setTitle("Melinda Malmgren - Resume");
     pdfDoc.setAuthor("Karl J Haworth");
     pdfDoc.setProducer("KH PDF App 9000 🤖");
-    pdfDoc.setSubject("Karl Haworth Resume");
+    pdfDoc.setSubject("Melinda Malmgren Resume");
     pdfDoc.setCreator("karlhaworth.com (https://karlhaworth.com)");
     const pdfBytes = await pdfDoc.save();
     fs.writeFileSync("./dist/assets/karl_haworth_resume.pdf", pdfBytes);
