@@ -6,17 +6,14 @@
     "employment_date": "Apr 2020 – Present",
     "description": "Worked in the Technology Transformation organization driving change at scale and delivering enterprise solutions in support of modernization efforts.",
     "bullets": [
-      "Directly managed a small team of engineers whose focus was to create a best-in-class engineer experience at American.",
-      "Broke down collaboration barriers within American by sourcing pain points for engineers and standing up solutions to solve them.",
-      "Championed the InnerSource efforts across the company including hosting workshops, providing individual consulting to product teams, and contributing code to repos.",
+      "Directly managed a team of engineers whose focus was to create a best-in-class engineer experience at American.",
+      "Championed the InnerSource efforts across the company by hosting workshops, providing individual consulting to product teams, contributing code to repos, and creating an InnerSource Marketplace.",
+      "Developed tools to break down collaboration barriers and elevate the voice of the engineer, including standing up an enterprise wiki and a tech landscape visualization tool.",
       "Conducted interviews for roles across the company and advocated for hiring practices that support diversity.",
-      "Participated in Tech Board. Represented the voice of the engineer in multiple forums, including Tech Board.",
-      "Contributed to open source projects on behalf of American Airlines and strived to introduce numerous projects to the open source community.",
+      "Contributed to open source projects on behalf of American Airlines and sourced numerous projects to introduce to the open source community.",
       "Organized sponsorship of multiple college hackathons in support of American's talent pipeline.",
-      "Onboarded, trained, and mentored ADEPTs", 
-      "Presentations, Tower, etc",
-      "Runway, developer experience",
-      "Developed proof-of-concepts to explore emerging tech and discover creative ways to solve problems."
+      "Oversaw the rollout of multiple enterprise wide tech initiatives, including Tower and Tech Radar.",
+      "Developed proof-of-concepts in support of the Emerging Tech team to investigate innovative solutions."
     ]
   },
   {
@@ -24,14 +21,14 @@
     "icon": "american-airlines",
     "title": "Principal Tech Lead",
     "employment_date": "Jul 2018 – Apr 2020",
-    "description": "Worked in the Airline Operations Technology organization leading the delivery of...",
+    "description": "Worked in the Airline Operations Technology organization leading the technical delivery of applications in the Safety & Security portfolio.",
     "bullets": [
-      "Mentored developers across all areas of multiple projects and tech stacks.",
+      "Mentored developers across all areas of numerous projects and tech stacks.",
       "Owned and maintained the Azure Devops CI/CD pipelines for the Safety & Security portfolio.",
       "Oversaw and mentored a group of 14 new grad engineers participating in AA’s accelerated leadership program as they developed and released a production application.",
       "Introduced coding standards and implemented code reviews, linting, branching strategies, and automated testing across multiple teams.",
       "Provided technical guidance for the continued development and re-write of CERS including conversion of mobile apps into a Progressive Web App, database migration, and re-architecting to a cloud native solution.",
-      "Championed and coordinated the adoption of InnerSource at American by organizing workshops, being a repo maintainer, and helping teams InnerSource their projects.",
+      "Championed and coordinated the adoption of InnerSource at American by organizing workshops, maintaining repos, and guiding teams on how to InnerSource their projects.",
       "Created roadmaps for modernizing and re-architecting numerous applications to be cloud native.",
       "Architected and deployed the first production application at American Airlines to be hosted in Azure."
     ]
@@ -68,7 +65,7 @@
     "icon": "",
     "title": "Software Developer II - Automation",
     "employment_date": "Jan 2018 – Jun 2019",
-    "description": "Worked in the X department enabling test automation and production deployments.",
+    "description": "Worked on the Central Services team enabling test automation and overseeing production deployments.",
     "bullets": [
       "Enhanced, maintained and owned the Automation framework used to automate test cases and assure the quality of Lumension’s core product.",
       "Collaborated with the Configuration Management team to create multiple tools and plugins for TFS, including automated work item tools and source control management enhancements.",
