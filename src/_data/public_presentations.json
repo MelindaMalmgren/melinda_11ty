@@ -1,8 +1,20 @@
 [
     {
+        "name": "Episode 04: Backstage in the Wild",
+        "link": "https://podcasts.apple.com/us/podcast/04-backstage-in-the-wild/id1610028432?i=1000554246034",
+        "date": "Mar 16, 2022",
+        "forum": "NerdOut Podcast"
+    },
+    {
         "name": "The Developer Experience @ American Airlines driven by Spotify Backstage",
         "link": "https://www.youtube.com/watch?app=desktop&v=kZFdHmM5-7M&feature=youtu.be",
         "date": "Jun 2, 2021",
         "forum": "Canton Coders"
+    },
+    {
+        "name": "InnerSource at American Airlines",
+        "link": "https://tech.aa.com/2020-10-30-innersource",
+        "date": "Oct 30, 2020",
+        "forum": "American Airlines Tech Blog"
     }
 ]
