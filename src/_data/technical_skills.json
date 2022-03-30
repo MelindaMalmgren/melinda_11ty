@@ -4,9 +4,9 @@
   "Actions",
   "Azure",
   "Angular",
-  "NodeJS",
+  "Node",
   "React",
-  "CI/CD",
+  "DevOps",
   "Docker",
   "Git",
   "Cloud Foundry",
@@ -15,10 +15,6 @@
   "Postgres",
   "MySQL",
   "Mongo",
-  "SQL Server",
-  "Oracle",
   "CSS",
-  "Mac OS",
-  "Windows OS",
-  "Java"
+  "Terraform"
 ]
